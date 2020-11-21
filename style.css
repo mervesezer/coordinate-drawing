@@ -1,0 +1,20 @@
+.btn-warning {
+  width: 120px;
+}
+
+canvas {
+  padding: 0;
+  margin: auto;
+  display: block;
+}
+
+.koordinat{
+    width: 100px;
+}
+
+.centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
